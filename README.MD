@@ -32,7 +32,7 @@ Wer can see that the question number for 2023 is pretty low, this is due to the 
 We can also try to understand when are questions asked on the forum.
 ![count over weekday](./dataviz/figures/question_count_weekday.png)
 We can see that most of questions are asked during office days, as week-end days leads to almost half of a worked day question count.
-We will see wich categories are most impacted by weekday [here]().
+We will see wich categories are most impacted by weekday [here](./dataviz/weekday/weekday_analysis.ipynb).
 
 
 Here, we try to  plot wich categories are the most related to a selected one. This is an exemple for Python. The output shows the most commonly used python library, such as pandas and numpy.
