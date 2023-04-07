@@ -25,4 +25,13 @@ From theses results, we can measure the relative difference between the amount o
 
 ![top](../figures/weekday_scores.png)
 
-Microsoft's performance of owning 70% of the top-10 most less used by people when they have a choice shoul be awared.
+From the leaderboard's top, we can observe :
+- Microsoft's performance of owning 70% of the top-10 most less used by people when they have a choice shoul be awared.
+- Git is not required for solo projects
+- No sane person would ever use Oracle or SQL-server as a database for a side project
+- Angular is definitively more an "office technology" then React.JS, people would think it is a more mature tech, which makes him suited for entreprise projects, but it is just more painfull
+
+On the contrary, a few technologies seems to be more populars :
+- mobile app technologies : categories such as "android", "flutter", "react-native" and "swift" has a low score
+- firebase seems to be very popular for side projects, but is rarely used for professional projects
+- c and c++ are still widely used on the weekend
